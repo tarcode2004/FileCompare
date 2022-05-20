@@ -1,8 +1,5 @@
 package mod;
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-import java.util.TreeMap;
 
 public class main{
 	public static void main(String[] args) {
